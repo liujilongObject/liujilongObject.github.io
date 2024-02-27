@@ -1,0 +1,1 @@
+import{_ as e,c as a,o,a2 as l}from"./chunks/framework.Bk-UhgEh.js";const m=JSON.parse('{"title":"CSS中的BFC","description":"","frontmatter":{},"headers":[],"relativePath":"CSS/BFC.md","filePath":"CSS/BFC.md"}'),r={name:"CSS/BFC.md"},t=l("",25),i=[t];function n(c,s,h,p,d,u){return o(),a("div",null,i)}const f=e(r,[["render",n]]);export{m as __pageData,f as default};

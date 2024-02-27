@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a2 as o}from"./chunks/framework.Bk-UhgEh.js";const p=JSON.parse('{"title":"React编写管理系统","description":"","frontmatter":{},"headers":[],"relativePath":"React/demo.md","filePath":"React/demo.md"}'),r={name:"React/demo.md"},c=o("",2),s=[c];function n(i,_,d,h,l,m){return a(),t("div",null,s)}const f=e(r,[["render",n]]);export{p as __pageData,f as default};
