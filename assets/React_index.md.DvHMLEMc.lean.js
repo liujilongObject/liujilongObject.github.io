@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r,a2 as a}from"./chunks/framework.Bk-UhgEh.js";const f=JSON.parse('{"title":"React导学","description":"","frontmatter":{},"headers":[],"relativePath":"React/index.md","filePath":"React/index.md"}'),o={name:"React/index.md"},i=a("",2),c=[i];function n(d,s,l,h,u,_){return r(),t("div",null,c)}const g=e(o,[["render",n]]);export{f as __pageData,g as default};

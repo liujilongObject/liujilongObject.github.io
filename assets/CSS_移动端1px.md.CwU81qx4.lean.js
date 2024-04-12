@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.Bk-UhgEh.js";const F=JSON.parse('{"title":"移动端1px","description":"","frontmatter":{},"headers":[],"relativePath":"CSS/移动端1px.md","filePath":"CSS/移动端1px.md"}'),h={name:"CSS/移动端1px.md"},k=n("",13),l=[k];function p(t,e,E,r,d,g){return a(),i("div",null,l)}const C=s(h,[["render",p]]);export{F as __pageData,C as default};

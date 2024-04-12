@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as i,a2 as t}from"./chunks/framework.Bk-UhgEh.js";const f=JSON.parse('{"title":"Vue","description":"","frontmatter":{},"headers":[],"relativePath":"Vue/index.md","filePath":"Vue/index.md"}'),r={name:"Vue/index.md"},l=t("",2),o=[l];function h(n,d,s,c,u,_){return i(),e("div",null,o)}const x=a(r,[["render",h]]);export{f as __pageData,x as default};
